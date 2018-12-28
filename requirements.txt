@@ -1,0 +1,10 @@
+flask
+pandas
+numpy
+pandas_profiling
+missingno
+sklearn
+scipy
+chatterbot
+cython
+lightfm

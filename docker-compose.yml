@@ -1,0 +1,7 @@
+web:
+  build: .
+  ports:
+    - "5000:80"
+  volumes:
+    - .:/app
+  tty: true
